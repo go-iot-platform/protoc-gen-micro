@@ -1,4 +1,4 @@
-module github.com/micro/protoc-gen-micro/v2
+module github.com/go-iot-platform/protoc-gen-micro
 
 go 1.13
 
